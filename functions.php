@@ -1,4 +1,7 @@
 <?php
+
+echo "test";
+
     function login($nickname, $password) {
 //        $conn = new mysqli("localhost","root","","taskerp");
 //
